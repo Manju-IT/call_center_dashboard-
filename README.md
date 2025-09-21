@@ -1,4 +1,4 @@
-> **Call Center Performance Dashboard**
+**Call Center Performance Dashboard**
 
 This project presents an interactive Call Center Dashboard designed to analyze and monitor agent performance, customer satisfaction, and overall service efficiency.
 
